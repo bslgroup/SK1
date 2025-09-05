@@ -5,18 +5,19 @@
 # "Structural dynamics of sphingosine kinase 1 regulation and inhibition" by Baharak Abd Emami, Ahmed Shubbar, Hope Woods, Mahmoud Moradi, and Reza Dastvan 
 
 This repository contains double electron–electron resonance (DEER) spectroscopy data and molecular dynamics (MD) simulations data including input files, simulation outputs, and analysis scripts.  
-Each system is organized with a consistent sub-structure for reproducibility.
+Each MD system is organized with a consistent sub-structure for reproducibility.
 
 ---
 
 ## Directory Layout
 
-Top-level system directories:
+Top-level system directories for MD data:
 
 - `apo/` – Apo system
 - `apo_S225/` – Apo system with Ser225 phosphorylation
 - `sqs_atp/` – ATP-bound system
 - `sqs_atp_S225/` – ATP-bound system with Ser225 phosphorylation
+- `pf543/' - PF-543 inhibitor bound system
 
 Each system directory contains three subfolders:
 system_name/
