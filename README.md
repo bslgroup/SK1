@@ -1,8 +1,10 @@
 # SK1
 
-# Molecular Dynamics Simulations Repository
+# Repository for Molecular Dynamics and DEER Data
 
-This repository contains molecular dynamics (MD) input files, simulation outputs, and analysis scripts.  
+# "Structural dynamics of sphingosine kinase 1 regulation and inhibition" by Baharak Abd Emami, Ahmed Shubbar, Hope Woods, Mahmoud Moradi, and Reza Dastvan 
+
+This repository contains double electron–electron resonance (DEER) spectroscopy data and molecular dynamics (MD) simulations data including input files, simulation outputs, and analysis scripts.  
 Each system is organized with a consistent sub-structure for reproducibility.
 
 ---
